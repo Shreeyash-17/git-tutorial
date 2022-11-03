@@ -37,3 +37,7 @@ $ git checkout main
 $ git merge new-folder
 $ git push -u origin main
 
+$ git push origin --delete folder
+
+
+
