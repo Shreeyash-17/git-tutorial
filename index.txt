@@ -1,1 +1,18 @@
 asdfghjkl puytwq xcvbnm 3 for seeing
+
+here main or master is origin point
+
+git intit:initialize repo
+git status: check status of or which are files of systems are added to staging and which are not
+            check status of or which are files of systems committed and which are not
+git add .  : to add fioes to staging
+git commit -m "message" : add  files to final state with description
+git log: to check history of updation
+$ git config --global user.name "Shreeyash Bhakare" : to add username globally ,,// same can be done for email
+$ git remote add origin git@github.com:Shreeyash-17/git-tutorial.git : to give repo address check on google OR  give origin point 
+$ git push -u origin (main)/(master) :to push our code on github
+$ git push origin (main)/(master) :to push our code on github
+$ git branch -M main : to change name of origin or master
+$ git pull origin (master/(main)): to pull code from github which is edited on directly github by you
+$ git pull:to pull code from github which is edited on directly github by you
+$ git diff index.txt: to see what is edited code as compared to previous code
