@@ -26,3 +26,7 @@ git add . :stages new and modified,without deleted
 git add -u: stages modified and deleted, without new
 
 git clone "ssh.link paste": to add specific project folder to our device instead of downloading zip
+
+git branch:see branches
+git checkout branch-name:switch ot branch 
+$ git push -u origin folder-name : push edited code
