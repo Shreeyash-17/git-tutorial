@@ -20,4 +20,3 @@ $ git diff --staged index.txt :to see what is edited code as compared to previou
 $ git reset index.txt : to unstage files from stage state 
 $ git checkout index.txt:  to reach to previous commit state of index file
 git checkout . :to reach to previous commit state of all files
-.............................
