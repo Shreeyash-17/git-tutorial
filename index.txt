@@ -30,3 +30,10 @@ git clone "ssh.link paste": to add specific project folder to our device instead
 git branch:see branches
 git checkout branch-name:switch ot branch 
 $ git push -u origin folder-name : push edited code
+
+//TO MERGE FOLLOW BELOW METHOD
+
+$ git checkout main
+$ git merge new-folder
+$ git push -u origin main
+
